@@ -43,11 +43,11 @@ Straightforward screens for upload, verification, and pass generation.
 
 ## 🧩 Tech Stack
 
-- **Backend:** Java, Spring Boot  
-- **Frontend:** React (or HTML/CSS)  
-- **OCR Engine:** Tesseract / EasyOCR / Google Vision (your choice)  
-- **Database:** MySQL / PostgreSQL  
-- **Build Tool:** Maven / Gradle
+- **Backend:** Django
+- **Frontend:**  HTML/CSS/Js
+- **OCR Engine:** Tesseract / 
+- **Database:** MySQL 
+- **Build Tool:** VsCode
 
 ---
 
