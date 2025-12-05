@@ -27,17 +27,17 @@ Straightforward screens for upload, verification, and pass generation.
 
 > Replace the image paths with your actual file names.
 
-### 1. Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### 1. Home
+![Dashboard](./1.png)
 
 ### 2. ID Upload & OCR Extraction
-![OCR Extraction](./screenshots/ocr-extraction.png)
+![OCR Extraction](./2.png)
 
 ### 3. Data Validation Screen
-![Validation](./screenshots/validation.png)
+![Validation](./3.png)
 
 ### 4. Visitor Pass Output
-![Visitor Pass](./screenshots/visitor-pass.png)
+![Visitor Pass](./4.png)
 
 ---
 
