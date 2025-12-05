@@ -34,10 +34,10 @@ Straightforward screens for upload, verification, and pass generation.
 ![OCR Extraction](./2.png)
 
 ### 3. Data Validation Screen
-![Validation](./3.png)
+![Validation](./4.png)
 
 ### 4. Visitor Pass Output
-![Visitor Pass](./4.png)
+![Visitor Pass](./5.png)
 
 ---
 
